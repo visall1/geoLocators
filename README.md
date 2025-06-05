@@ -57,7 +57,7 @@ GeoLocator is a simple C# console application that takes an IP address and fetch
 
 ## 📸 Example Output
 
- ```Enter IP Address: 8.8.8.8
+  Enter IP Address: 8.8.8.8
   [+] Request Successfully Made
   IP: 8.8.8.8
   Country: US
@@ -67,7 +67,7 @@ GeoLocator is a simple C# console application that takes an IP address and fetch
   Region: California
   ANS: AS15169 Google LLC
   Google Map: https://www.google.com/maps/?q=37.3860,-122.0840
-  ```
+  
 
 ---
 
@@ -75,6 +75,14 @@ GeoLocator is a simple C# console application that takes an IP address and fetch
 
 - The app uses the free tier of [ipinfo.io](https://ipinfo.io/), which may be rate-limited.
 - No API key is required for basic usage, but you can add one for more detailed data or higher limits.
+
+---
+
+## 🙋‍♂️ Author
+
+**Visal**  
+Student at IT Academy Step Cambodia  
+GitHub: [https://github.com/visall1](https://github.com/visall1)
 
 ---
 
