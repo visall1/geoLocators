@@ -57,16 +57,16 @@ GeoLocator is a simple C# console application that takes an IP address and fetch
 
 ## 📸 Example Output
 
-  Enter IP Address: 8.8.8.8
-  [+] Request Successfully Made
-  IP: 8.8.8.8
-  Country: US
-  City: Mountain View
-  Coordinates: 37.3860,-122.0840
-  Postal Code: 94035
-  Region: California
-  ANS: AS15169 Google LLC
-  Google Map: https://www.google.com/maps/?q=37.3860,-122.0840
+  - Enter IP Address: 8.8.8.8
+  - [+] Request Successfully Made
+  - IP: 8.8.8.8
+  - Country: US
+  - City: Mountain View
+  - Coordinates: 37.3860,-122.0840
+  - Postal Code: 94035
+  - Region: California
+  - ANS: AS15169 Google LLC
+  - Google Map: https://www.google.com/maps/?q=37.3860,-122.0840
   
 
 ---
