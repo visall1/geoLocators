@@ -69,3 +69,16 @@ GeoLocator is a simple C# console application that takes an IP address and fetch
   Google Map: https://www.google.com/maps/?q=37.3860,-122.0840
   ```
 
+---
+
+## ⚠️ Notes
+
+- The app uses the free tier of [ipinfo.io](https://ipinfo.io/), which may be rate-limited.
+- No API key is required for basic usage, but you can add one for more detailed data or higher limits.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
