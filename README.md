@@ -41,7 +41,7 @@ GeoLocator is a simple C# console application that takes an IP address and fetch
 1. Clone the repository or copy the code:
 
     ```bash
-    https://github.com/vi3am/geoLocators.git
+    git clone https://github.com/vi3am/geoLocators.git
     cd GeoLocator
     ```
 
